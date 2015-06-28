@@ -3,7 +3,7 @@
 1. <br>
 ![Screenshot 1](https://github.com/Asutosh11/College-Student-Portal/blob/master/Screenshots/1.PNG "")
 
-
+<br>
 
 <b>Admin Pages</b>
 
@@ -19,7 +19,7 @@
 4. <br>
 ![Screenshot 2](https://github.com/Asutosh11/College-Student-Portal/blob/master/Screenshots/admin/7.PNG "")
 
-
+<br>
 
 <b>Student Pages</b>
 
