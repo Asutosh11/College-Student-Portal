@@ -3,29 +3,29 @@
 1. <br>
 ![Screenshot 1](https://github.com/Asutosh11/College-Student-Portal/blob/master/Screenshots/1.PNG "")
 
-<hr>
+
 
 <b>Admin Pages</b>
 
-2. <br>
+1. <br>
 ![Screenshot 2](https://github.com/Asutosh11/College-Student-Portal/blob/master/Screenshots/admin/2.PNG "")
 
-3. <br>
+2. <br>
 ![Screenshot 3](https://github.com/Asutosh11/College-Student-Portal/blob/master/Screenshots/admin/5.PNG "")
 
-4. <br>
+3. <br>
 ![Screenshot 1](https://github.com/Asutosh11/College-Student-Portal/blob/master/Screenshots/admin/6.png "")
 
-5. <br>
+4. <br>
 ![Screenshot 2](https://github.com/Asutosh11/College-Student-Portal/blob/master/Screenshots/admin/7.PNG "")
 
-<hr>
+
 
 <b>Student Pages</b>
 
-6. <br>
+1. <br>
 ![Screenshot 3](https://github.com/Asutosh11/College-Student-Portal/blob/master/Screenshots/student/3.PNG "")
 
-7. <br>
+2. <br>
 ![Screenshot 3](https://github.com/Asutosh11/College-Student-Portal/blob/master/Screenshots/student/4.png "")
 
