@@ -1,10 +1,11 @@
-<b><u>Login Page</u></b>
+<b>Login Page</b>
 
 1. <br>
 ![Screenshot 1](https://github.com/Asutosh11/College-Student-Portal/blob/master/Screenshots/1.PNG "")
 
+<hr>
 
-<b><u>Admin Pages</u></b>
+<b>Admin Pages</b>
 
 2. <br>
 ![Screenshot 2](https://github.com/Asutosh11/College-Student-Portal/blob/master/Screenshots/admin/2.PNG "")
@@ -18,8 +19,9 @@
 5. <br>
 ![Screenshot 2](https://github.com/Asutosh11/College-Student-Portal/blob/master/Screenshots/admin/7.PNG "")
 
+<hr>
 
-<b><u>Student Pages</u></b>
+<b>Student Pages</b>
 
 6. <br>
 ![Screenshot 3](https://github.com/Asutosh11/College-Student-Portal/blob/master/Screenshots/student/3.PNG "")
