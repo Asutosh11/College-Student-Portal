@@ -1,3 +1,21 @@
+This is a College students' portal web app.  Students can login using login id and password given by college, can update their profile including password, view their attendance and can send a complaint or message to admin. 
+<br>
+Admin can login using admin id and password and has the ability to read messages/complaints sent by students and can enter students' attendance.
+
+<br>
+<b>This app uses</b>
+<br>
+1. HTML.
+<br>
+2. CSS
+<br>
+3. Javascript
+<br>
+4. PHP
+<br><br>
+
+
+
 <b>Login Page</b>
 
 1. <br>
