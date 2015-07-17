@@ -12,6 +12,8 @@ Admin can login using admin id and password and has the ability to read messages
 3. Javascript
 <br>
 4. PHP
+<br>
+5. MySQL
 <br><br>
 
 
