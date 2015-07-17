@@ -7,7 +7,7 @@ Admin can login using admin id and password and has the ability to read messages
 <br>
 1. HTML.
 <br>
-2. CSS
+2. CSS, Bootstrap CSS
 <br>
 3. Javascript
 <br>
